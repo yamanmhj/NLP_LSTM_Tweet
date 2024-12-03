@@ -1,0 +1,159 @@
+2024-12-03 14:10:19,684 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:10:27,015 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:10:27,015 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:10:27,015 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:10:27,015 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:10:38,744 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:10:38,752 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:10:38,753 - DEBUG - interactive is False
+2024-12-03 14:10:38,754 - DEBUG - platform is darwin
+2024-12-03 14:10:38,889 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:10:38,889 - DEBUG - font search path [PosixPath('/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf'), PosixPath('/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/afm'), PosixPath('/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts')]
+2024-12-03 14:10:43,894 - WARNING - Matplotlib is building the font cache; this may take a moment.
+2024-12-03 14:10:52,236 - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize (invalid pixel size; error code 0x17)
+2024-12-03 14:10:52,303 - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize (invalid pixel size; error code 0x17)
+2024-12-03 14:10:52,396 - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2024-12-03 14:10:52,466 - INFO - generated new fontManager
+2024-12-03 14:11:22,592 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:11:22,994 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:11:22,994 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:11:22,994 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:11:22,994 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:11:23,710 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:11:23,715 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:11:23,716 - DEBUG - interactive is False
+2024-12-03 14:11:23,716 - DEBUG - platform is darwin
+2024-12-03 14:11:23,835 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:11:23,837 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:11:55,761 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:11:56,158 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:11:56,158 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:11:56,158 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:11:56,158 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:11:56,786 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:11:56,791 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:11:56,791 - DEBUG - interactive is False
+2024-12-03 14:11:56,792 - DEBUG - platform is darwin
+2024-12-03 14:11:56,907 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:11:56,909 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:12:31,532 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:12:31,927 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:12:31,927 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:12:31,927 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:12:31,927 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:12:32,614 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:12:32,619 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:12:32,620 - DEBUG - interactive is False
+2024-12-03 14:12:32,620 - DEBUG - platform is darwin
+2024-12-03 14:12:32,733 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:12:32,736 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:17:03,422 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:17:03,839 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:17:03,839 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:17:03,839 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:17:03,839 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:17:04,498 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:17:04,502 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:17:04,503 - DEBUG - interactive is False
+2024-12-03 14:17:04,503 - DEBUG - platform is darwin
+2024-12-03 14:17:04,613 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:17:04,616 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:17:37,486 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:17:37,889 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:17:37,889 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:17:37,889 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:17:37,889 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:17:38,529 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:17:38,533 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:17:38,534 - DEBUG - interactive is False
+2024-12-03 14:17:38,534 - DEBUG - platform is darwin
+2024-12-03 14:17:38,653 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:17:38,655 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:18:31,556 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:18:31,949 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:18:31,949 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:18:31,949 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:18:31,949 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:18:32,612 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:18:32,616 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:18:32,617 - DEBUG - interactive is False
+2024-12-03 14:18:32,618 - DEBUG - platform is darwin
+2024-12-03 14:18:32,748 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:18:32,750 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:19:44,982 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:19:45,305 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:19:45,305 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:19:45,305 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:19:45,305 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:19:46,051 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:19:46,055 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:19:46,056 - DEBUG - interactive is False
+2024-12-03 14:19:46,056 - DEBUG - platform is darwin
+2024-12-03 14:19:46,184 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:19:46,187 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:20:40,035 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:20:40,437 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:20:40,437 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:20:40,437 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:20:40,437 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:20:41,083 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:20:41,088 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:20:41,089 - DEBUG - interactive is False
+2024-12-03 14:20:41,089 - DEBUG - platform is darwin
+2024-12-03 14:20:41,224 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:20:41,226 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:21:41,346 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:21:41,747 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:21:41,747 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:21:41,747 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:21:41,747 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:21:42,402 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:21:42,407 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:21:42,408 - DEBUG - interactive is False
+2024-12-03 14:21:42,408 - DEBUG - platform is darwin
+2024-12-03 14:21:42,529 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:21:42,531 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:33:05,241 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:33:05,647 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:33:05,647 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:33:05,647 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:33:05,647 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:33:06,304 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:33:06,309 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:33:06,310 - DEBUG - interactive is False
+2024-12-03 14:33:06,310 - DEBUG - platform is darwin
+2024-12-03 14:33:06,427 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:33:06,429 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:34:33,029 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:34:33,430 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:34:33,430 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:34:33,430 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:34:33,430 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:34:34,073 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:34:34,077 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:34:34,078 - DEBUG - interactive is False
+2024-12-03 14:34:34,078 - DEBUG - platform is darwin
+2024-12-03 14:34:34,195 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:34:34,198 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:36:30,621 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:36:31,004 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:36:31,004 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:36:31,004 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:36:31,004 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:36:31,633 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:36:31,638 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:36:31,639 - DEBUG - interactive is False
+2024-12-03 14:36:31,639 - DEBUG - platform is darwin
+2024-12-03 14:36:31,760 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:36:31,762 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json
+2024-12-03 14:37:47,289 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-03 14:37:47,689 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:37:47,689 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:37:47,689 - DEBUG - Creating converter from 7 to 5
+2024-12-03 14:37:47,689 - DEBUG - Creating converter from 5 to 7
+2024-12-03 14:37:48,362 - DEBUG - matplotlib data path: /Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_Tweet/venv/lib/python3.12/site-packages/matplotlib/mpl-data
+2024-12-03 14:37:48,367 - DEBUG - CONFIGDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:37:48,368 - DEBUG - interactive is False
+2024-12-03 14:37:48,368 - DEBUG - platform is darwin
+2024-12-03 14:37:48,502 - DEBUG - CACHEDIR=/Users/yamanmaharjan/.matplotlib
+2024-12-03 14:37:48,504 - DEBUG - Using fontManager instance from /Users/yamanmaharjan/.matplotlib/fontlist-v390.json

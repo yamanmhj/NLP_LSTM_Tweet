@@ -1,9 +1,9 @@
 import os
 import sys
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET/NLP_MODULE/src")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET/NLP_MODULE")
 
 from dataclasses import dataclass
-from Load_data_here.gcloud import GET_Data_From_GLOUD
 from NLP_MODULE.config import LoadConfig
 from NLP_MODULE.src.components.data_transformation import DataTransformation
 from exception import CustomeException
@@ -18,22 +18,6 @@ class DataIngestion:
     def __init__(self):
         self.ingestion_config = DataIngestionConfig()
 
-    def initiate_data_Extraction(self):
-        print("Getting data from gcloud...")
-        try:
-           
-            config = LoadConfig.get_config_Full_file()
-            print(config)
-            print(config['BUCKET_NAME'])
-            print(config['ZIP_FILE_NAME'])
-            print(self.ingestion_config.Loaded_data_path)
-            GET_Data_From_GLOUD.sync_folder_from_gcloud(
-                config['BUCKET_NAME'], 
-                config['ZIP_FILE_NAME'], 
-                self.ingestion_config.Loaded_data_path
-            )
-        except Exception as e:
-            raise CustomeException(e,sys)
         
     def extract_zip_files(self):
             print('Extracting zip files')

@@ -13,7 +13,7 @@ from keras_preprocessing.sequence import pad_sequences
 from sklearn.model_selection import train_test_split
 
 
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET")
 
 
 @dataclass

@@ -7,7 +7,7 @@ from dataclasses import dataclass
 import exception as CustomeException
 from keras_preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET")
 from NLP_MODULE.src.components.model_trainer import ModelTrainer
 from tensorflow import keras
 

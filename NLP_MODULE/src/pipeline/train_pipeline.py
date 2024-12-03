@@ -1,7 +1,7 @@
 import os
 import sys
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman/NLP_MODULE/src")
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET/NLP_MODULE/src")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET")
 
 from sklearn.pipeline import Pipeline
 from components.data_ingestion import DataIngestion
@@ -16,7 +16,6 @@ class The_Training_pipeline:
     def __init__(self):
         
         self.pipeline = Pipeline(steps=[
-            ('downloading_dataset', DataIngestion().initiate_data_Extraction),
             ('extracting zipline', DataIngestion().extract_zip_files),
             ('word processing and combining data',DataTransformation().generate_and_combine_imbalanced_and_raw_data_),
             ('Trainign model(splitting,tokenizer,modelname,)', ModelTrainer().initiate_model_training),

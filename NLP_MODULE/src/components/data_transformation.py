@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_Final_Yaman")
+sys.path.append("/Users/yamanmaharjan/Documents/Personal_yaman/NLP_LSTM_TWEET")
 from dataclasses import dataclass
 from NLP_MODULE.config import LoadConfig
 import pandas as pd
