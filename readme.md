@@ -142,3 +142,9 @@ pip install -r requirements.txt
 
 ---
 
+### Initially the data was downloaded from my google cloud platforrm  bucket and stored back to it. but i changed it and ran it locally as it was waste of resouce. 
+def sync_folder_from_gcloud(gcp_bucket_url, filename, destination):
+        command = f"gsutil cp gs://{gcp_bucket_url}/{filename} {destination}/{filename}"        
+        # command = f"gcloud storage cp gs://{gcp_bucket_url}/{filename} {destination}/{filename}"
+        os.system(command)  This was one code to download it from gcp bucket to my local folder after ssh
+        
