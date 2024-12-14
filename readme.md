@@ -1,4 +1,5 @@
 
+![NLPjpg](https://github.com/user-attachments/assets/32f4805f-8e35-4a1d-97b1-98ced9f9ddb8)
 
 
 
@@ -9,7 +10,7 @@ Welcome to my first NLP project! This repository demonstrates a **modular NLP pi
 
 ---
 
-## Features
+### Features
 
 - **Sklearn Pipeline**: Orchestrates the entire process from data extraction to training to evaluation.
 - **Hyperparameter Tuning**: Easily configure and experiment with hyperparameters via YAML files.
@@ -18,7 +19,7 @@ Welcome to my first NLP project! This repository demonstrates a **modular NLP pi
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 project_root/
