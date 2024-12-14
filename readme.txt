@@ -3,7 +3,7 @@
 
 
 
-# Modular NLP Pipeline
+### Modular NLP Pipeline
 
 Welcome to my first NLP project! This repository demonstrates a **modular NLP pipeline** built in Python. It is designed to orchestrate the complete workflow from data extraction to training and evaluation, while offering flexibility to adjust hyperparameters using YAML configuration files.
 
@@ -62,7 +62,7 @@ Ensure you have the following installed:
    pip3 install -r requirements.txt
    ```
 
-3. Update `params.yaml` to specify the hyperparameters for your experiment.
+3. Update `config.yaml` to specify the hyperparameters for your experiment.
 
 ---
 
